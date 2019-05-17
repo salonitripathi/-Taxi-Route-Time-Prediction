@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eco-watch-132114",
+  "private_key_id": "a6bc4b1cdbfe9f7138ed9bd42235215bce3e26af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0AmKmqOcWCa5K\nmlqvrlqRxrhuKKfFuTz3CL5oqVfgritMKzyBV96K6WO4sxICosqkZVtJl1jLlWxd\nbMP3Ctpur/0YXJPlKohFhXNvhFDqOF/C8/vYdA5YgZx9QflnakaqqH5qCFqQFgA4\nJyS8THk/Yx6qkI+cNO17VDNYosbf5ZlnjyIhRKaBWlA1S0ZYbA+ap9c1z/z6meuN\nVpB2E60YKXHBoeCVFdElw5E794DgVTrck7NPkEEv8V/oH2gbahOshmMdrTsE/YMh\nDS0fsTZ1w25g+lOLZ8ATFmCkOXGSo5EefCQVPUtLSk5iqJBm0USbDkjVWOJtMGbR\nExRL5AfdAgMBAAECggEADC5bJExVXZGTI0ZAW8IQgUExdXbif4fySa85n1XSS13N\n3UN8aS5Gh3TqrsgjWwf5btgoWMRZRGbcpJJ5zQEFg1b9FAXJFkljW6eqW5dYbbkZ\n4H89LB+9DB0yjJax0gndiqqIlL6do5bG4LCOv6qXIS8hF0ldW88zFio+Upb/8+JK\nt5lEGwaWrfiPQHCCmR7rRu/4L+x5XOMeimROy+O4t2uBOqQaMmmuEN7rYRjgJ0Cc\n/a8YULf+34PxkcZpSb8XxGR4WzRRpdSkk7R+eGEKJfRYhZ54+AZ/7PtMT7oTCvQ3\n/VcnDYv5i95/ek62eGu4p8qrmkkc6u39gGTESSfhUQKBgQD5LwOKKlOz2Ti2HXLo\nR4eLJk6DPX0DDbYLy43wpGslSuXUiTXNZnE4Pz8kDs/T3IMWgXiZDncAtipnHAHG\nT5Iznq9duv6xijgGNihEuFuiMSx30gQBCf+YaKzHGBJgsMEm+Gge5McU3tRj/Z70\nXvv7T8IyTidzHxag2KL+YcWUeQKBgQC47vTrhhF+KiSDiEwagsD+YKt2l4KhfULO\nhA5EnyD6Ec8nwt2cGsh5d2NiQXz/d6s4r81vEBT5lE/3nGhEPntmNRkttybm3qXB\nFvj8ZyuQRBlxHDwCpLArY9cxVV5jpgSv7M6VXWOq/R3RLh7f6rqQnz063lD4PExB\n9eHomuHNhQKBgQCJP1Tix/d8atuqq0O8HpHQmdPKw5ZUlTu8+Wv/rH/7dWprivug\nW5lm0qczdBkSZzWosr07CFWRhcSLMEjl8rPjTLbomHNqVGgRO8koOKb4Cb+la36b\nF+e5CYaIzoBo01I/5bhrs7TXkPhI7suba6m8vSyISrW92dS72TbFiBKseQKBgAoz\nbCEduRNLgc4bk48WzUx6ypp1CwibXzcDA8J3QJtqphGcZxr4QzyoADxoPlvdHv22\nfM92hKGrs6mF4B57j9T4ctYZtzSe7We0O7G4gyenCfw6QXkn2mvaSwF2owk+HB4U\nIuUMTLYe1ik2sQ9K5FWb4wW/Q5odwVsWFAr/mBr9AoGBALSdPoXumm2l2LH1a2BT\nO8PahG02ONM1Xug+KO4es8e7qpHNV9h9ZQsLojPeiNzZ46khcVxHdVbugQmkt5sH\nCCIOlPeJdPd4lOhaCweyE4iaVm9b9bYy0JoaHSdx6vOt/qkdVeRcgvsUrjUnqzuZ\nPsL6Wcz0QNdi0E25UWR9FccQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "snt-project@eco-watch-132114.iam.gserviceaccount.com",
+  "client_id": "109721470646944434081",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/snt-project%40eco-watch-132114.iam.gserviceaccount.com"
+}
